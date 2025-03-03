@@ -345,6 +345,7 @@
  display: grid;
  grid-template-rows: repeat(3,1fr);
 }
+
 .main-hot-release-two{
   display: grid;
   grid-template-rows: repeat(3,1fr);
@@ -362,4 +363,3 @@
  } 
 
 
- 
